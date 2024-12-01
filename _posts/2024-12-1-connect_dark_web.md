@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "访问暗网的网站"
-date:   2024-1-27
+date:   2024-12-1
 tags: [网站]
 comments: true
 author: Qi YuChen
@@ -10,9 +10,7 @@ Hello!我是祁宇晨，今天我在b站时看到一个词：暗网，相信在�
 
 ## 1.下载安装Tor浏览器
 
-先下载安装包：
-
-[]: https://pan.xunlei.com/s/VOD-q3rl52dtlOsLn-eHOm9TA1?pwd=mwi	" 下载tor浏览器"
+先下载安装包：https://pan.xunlei.com/s/VOD-q3rl52dtlOsLn-eHOm9TA1?pwd=mwi
 
 打开后，会显示一个小窗口，我们选中文（简体）并按OK，按完后直接无脑NEXT，~~安装完后~~就安装完了。
 
@@ -28,9 +26,7 @@ Hello!我是祁宇晨，今天我在b站时看到一个词：暗网，相信在�
 
 ### 2.1 获取网桥并添加
 
-我们打开这个网站：
-
-[]: https://bridges.torproject.org/option	"网桥获取"
+我们打开这个网站：https://bridges.torproject.org/option
 
 （需翻墙）
 
